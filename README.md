@@ -1,4 +1,5 @@
-dataurl
+Dataurl
 =======
 
-Consistent API frontend to open data.
+Consistent API frontend for open data. 
+
